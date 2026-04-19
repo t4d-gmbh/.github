@@ -8,7 +8,6 @@
   </a>
 
 </p>
-<h1>T4D/h1>
 <p>Providing tools and know-how
   <br>
   for data analytics, software and web development
